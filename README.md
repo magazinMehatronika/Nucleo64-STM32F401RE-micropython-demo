@@ -1,7 +1,7 @@
 # Nucleo64-STM32F401RE-micropython-demo
 Nucleo64 STM32F401RE micropython demo - OLED SSD1306 I2C
 
-sh1107.py treba preuzeti sa: https://github.com/stlehmann/micropython-ssd1306/blob/master/ssd1306.py
+ssd1306.py treba preuzeti sa: https://github.com/stlehmann/micropython-ssd1306/blob/master/ssd1306.py
 
 ssd1306 -> STM32F401RE
 SCL -> SCL/D15
